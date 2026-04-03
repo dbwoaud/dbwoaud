@@ -29,25 +29,16 @@
 ### 🏆 주요 프로젝트(1인 개발)
 
 #### **지하 10층**
-* **Genre**: 1인칭 공포 퍼즐
-* **Engine**: Unity
-* **Key Achievement**: 
+* **장르**: 1인칭 공포 퍼즐
+* **엔진**: Unity
+* **주요 요소**: 
     * 1인 개발로 전체 게임 루프 및 엔딩 시퀀스 구현.
     * 이벤트 기반 아키텍처 도입으로 코드 유지보수성 확보.
-* **Links**: [📽️ Demo Video](#) | [📄 Detailed Portfolio (Notion)](#) | [💻 Source Code](#)
+* **링크**: [📽️ Demo Video](#) | [📄 Detailed Portfolio (Notion)](https://www.notion.so/10-f31faf7d496e828dab0501cd8dd8dae3?pvs=48) | [💻 Source Code](#)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=dbwoaud&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbwoaud&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📫 Connect with me
+### 📫 연락처
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/8a34ab6ffd924e56a63984e79720344a)
 [![YouTube](https://img.shields.io/badge/YouTube-Tech_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](본인의유튜브링크)
