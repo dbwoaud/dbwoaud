@@ -49,6 +49,6 @@
 
 ### 📫 Connect with me
 
-[![Notion](https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)][(본인의노션링크)](https://www.notion.so/8a34ab6ffd924e56a63984e79720344a)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/8a34ab6ffd924e56a63984e79720344a)
 [![YouTube](https://img.shields.io/badge/YouTube-Tech_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](본인의유튜브링크)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryujm3410@naver.com)
