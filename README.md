@@ -36,6 +36,13 @@
     * 이벤트 기반 아키텍처 도입으로 코드 유지보수성 확보.
 * **링크**: [📽️ Demo Video](https://www.youtube.com/watch?v=xBqUJMUoHfk) | [📄 Detailed Portfolio (Notion)](https://pinnate-earthworm-118.notion.site/10-f31faf7d496e828dab0501cd8dd8dae3) | [💻 Source Code](https://github.com/dbwoaud/Basement10_portfolio)
 
+#### **풍림화산 전쟁 (Elemental War)**
+* **장르**: 2D 사이드뷰 실시간 타워 디펜스 (1v1 멀티플레이)
+* **엔진**: Unity
+* **주요 요소**: 
+    * Photon PUN2 기반 실시간 네트워크 동기화 및 커스텀 오브젝트 풀링 구현.
+    * 씬 전반에 MVC 아키텍처와 다수의 GoF 디자인 패턴 적용.
+* **링크**: [📽️ Demo Video](https://www.youtube.com/watch?v=EoBB8FgUPCY) | [📄 Detailed Portfolio (Notion)](https://pinnate-earthworm-118.notion.site/35cfaf7d496e801c870ece488cbb2c5c) | [💻 Source Code](https://github.com/dbwoaud/ElementalWar_portfolio)
 ---
 
 ### 📫 연락처
