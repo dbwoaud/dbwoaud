@@ -42,4 +42,4 @@
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://pinnate-earthworm-118.notion.site/755faf7d496e832c8a5a8123aa84566d?pvs=74)
 [![YouTube](https://img.shields.io/badge/YouTube-Tech_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWO8IKkOeW-gUh2EAg5jA7A)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ryujm3410@naver.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ryujm3410@naver.com&su=제목&body=내용)
