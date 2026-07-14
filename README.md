@@ -34,7 +34,7 @@
 * **주요 요소**: 
     * 1인 개발로 전체 게임 루프 및 엔딩 시퀀스 구현.
     * 이벤트 기반 아키텍처 도입으로 코드 유지보수성 확보.
-* **링크**: [📽️ Demo Video](#) | [📄 Detailed Portfolio (Notion)](https://www.notion.so/10-f31faf7d496e828dab0501cd8dd8dae3?pvs=48) | [💻 Source Code](#)
+* **링크**: [📽️ Demo Video](https://www.youtube.com/watch?v=xBqUJMUoHfk) | [📄 Detailed Portfolio (Notion)](https://www.notion.so/10-f31faf7d496e828dab0501cd8dd8dae3?pvs=48) | [💻 Source Code](https://github.com/dbwoaud/Basement10_portfolio)
 
 ---
 
@@ -42,4 +42,4 @@
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://pinnate-earthworm-118.notion.site/755faf7d496e832c8a5a8123aa84566d?pvs=74)
 [![YouTube](https://img.shields.io/badge/YouTube-Tech_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWO8IKkOeW-gUh2EAg5jA7A)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryujm3410@naver.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ryujm3410@naver.com)
