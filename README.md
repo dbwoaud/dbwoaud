@@ -34,7 +34,7 @@
 * **주요 요소**: 
     * 1인 개발로 전체 게임 루프 및 엔딩 시퀀스 구현.
     * 이벤트 기반 아키텍처 도입으로 코드 유지보수성 확보.
-* **링크**: [📽️ Demo Video](https://www.youtube.com/watch?v=xBqUJMUoHfk) | [📄 Detailed Portfolio (Notion)](https://www.notion.so/10-f31faf7d496e828dab0501cd8dd8dae3?pvs=48) | [💻 Source Code](https://github.com/dbwoaud/Basement10_portfolio)
+* **링크**: [📽️ Demo Video](https://www.youtube.com/watch?v=xBqUJMUoHfk) | [📄 Detailed Portfolio (Notion)](https://pinnate-earthworm-118.notion.site/10-f31faf7d496e828dab0501cd8dd8dae3) | [💻 Source Code](https://github.com/dbwoaud/Basement10_portfolio)
 
 ---
 
