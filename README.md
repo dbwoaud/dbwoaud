@@ -1,9 +1,9 @@
 # Hello, I'm Yu Jae Myeong 👋
 
-### "고전의 즐거움을 현대의 기술로 재구조화하는 1인 게임 개발자입니다."
+### "고전의 즐거움을 현대의 기술로 재구조화하는 게임 클라이언트 개발자입니다."
 
 현재 **부산대학교 정보컴퓨터공학부**에 재학 중이며, 유니티와 언리얼 엔진을 이용하여 성능에 최적화된 게임을 설계하는 것에 깊은 관심을 가지고 있습니다.
-1인 개발 프로젝트를 통해 기획부터 제작, 배포까지 전 과정을 완수하며 실무적인 문제 해결 역량을 쌓았습니다.
+1인 개발 프로젝트를 통해 기획부터 제작, 배포까지 전 과정을 완수하며 실무적인 문제 해결 역량을 쌓았고, 게임잼 팀 프로젝트를 통해 여러 명이 동시에 하나의 게임을 만드는 과정에서의 협업 방식을 경험했습니다.
 
 ---
 
@@ -19,30 +19,46 @@
 
 ### 🚀 기술 포인트
 
-* **UI 자동화**: 리플렉션과 네이밍 컨벤션을 활용한 UI 자동 바인딩 시스템 구축으로 작업 효율 극대화.
-* **아키텍처**: SOLID 원칙을 준수한 매니저 패턴 설계 활용.
-* **이벤트 기반 시스템**: C# Action과 ScriptableObject를 결합하여 시스템 간 의존성을 낮춘 데이터 주도 설계.
-* **최적화**: 게임에 필요한 데이터에 적합한 자료구조를 직접 구현하여 유니티 내장 기능보다 최적화.
+* **UI 자동화**: 리플렉션과 네이밍 컨벤션을 활용한 UI 자동 바인딩 시스템 구축으로 작업 효율 극대화
+* **아키텍처**: SOLID 원칙을 준수한 매니저 패턴 설계 활용
+* **이벤트 기반 시스템**: C# Action과 ScriptableObject를 결합하여 시스템 간 의존성을 낮춘 데이터 주도 설계
+* **최적화**: 게임에 필요한 데이터에 적합한 자료구조를 직접 구현하여 유니티 내장 기능보다 최적화
+* **협업**: 도메인 단위 분업과 인터페이스 계약 설계를 통한 병렬 개발, 코드 리뷰 기반의 구조 개선 분석
 
 ---
 
 ### 🏆 주요 프로젝트(1인 개발)
 
-#### **지하 10층**
+**지하 10층 (Basement 10)**
 * **장르**: 1인칭 공포 퍼즐
 * **엔진**: Unity
 * **주요 요소**: 
-    * 1인 개발로 전체 게임 루프 및 엔딩 시퀀스 구현.
-    * 이벤트 기반 아키텍처 도입으로 코드 유지보수성 확보.
-* **링크**: [📽️ Demo Video](https://www.youtube.com/watch?v=xBqUJMUoHfk) | [📄 Detailed Portfolio (Notion)](https://pinnate-earthworm-118.notion.site/10-f31faf7d496e828dab0501cd8dd8dae3) | [💻 Source Code](https://github.com/dbwoaud/Basement10_portfolio)
+    * 1인 개발로 전체 게임 루프 및 엔딩 시퀀스 구현
+    * 이벤트 기반 아키텍처 도입으로 코드 유지보수성 확보
+* **링크**: [📽️ Demo Video](https://www.youtube.com/watch?v=dkS35WRMzng) | [📄 Detailed Portfolio (Notion)](https://pinnate-earthworm-118.notion.site/10-f31faf7d496e828dab0501cd8dd8dae3) | [💻 Source Code](https://github.com/dbwoaud/Basement10_portfolio)
 
-#### **풍림화산 전쟁 (Elemental War)**
+**풍림화산 전쟁 (Elemental War)**
 * **장르**: 2D 사이드뷰 실시간 타워 디펜스 (1v1 멀티플레이)
 * **엔진**: Unity
 * **주요 요소**: 
-    * Photon PUN2 기반 실시간 네트워크 동기화 및 커스텀 오브젝트 풀링 구현.
-    * 씬 전반에 MVC 아키텍처와 다수의 GoF 디자인 패턴 적용.
+    * Photon PUN2 기반 실시간 네트워크 동기화 및 커스텀 오브젝트 풀링 구현
+    * 씬 전반에 MVC 아키텍처와 다수의 GoF 디자인 패턴 적용
 * **링크**: [📽️ Demo Video](https://www.youtube.com/watch?v=EoBB8FgUPCY) | [📄 Detailed Portfolio (Notion)](https://pinnate-earthworm-118.notion.site/35cfaf7d496e801c870ece488cbb2c5c) | [💻 Source Code](https://github.com/dbwoaud/ElementalWar_portfolio)
+
+---
+
+### 🤝 팀 프로젝트
+
+**귀사식당**
+* **장르**: 협동 주방 시뮬레이션 (2인 협동)
+* **엔진**: Unity
+* **팀 구성**: 5인 (기획 1, 아트 1, 프로그래머 3) - ZEMJAM 2026 Summer Edition 출품작
+* **담당 범위**: 플레이어, 상호작용 오브젝트, 운반 가능 오브젝트 (주방 도메인)
+* **주요 요소**: 
+    * 도메인 단위 분업을 통한 5인 팀 병렬 개발 및 팀원 코드와의 연결부 설계
+    * 인터페이스와 추상 클래스 기반의 상호작용 및 운반 오브젝트 구조 설계
+    * 게임잼 종료 후 결합도, 응집도 관점의 셀프 코드 리뷰 수행
+* **링크**: [🎮 Play (itch.io)](https://itch.io/jam/zemjam-2026-summer-edition/rate/4697447) | [📄 Detailed Portfolio (Notion)](https://pinnate-earthworm-118.notion.site/3b2faf7d496e80ff92bfddca9a19444c) | [💻 Source Code](https://github.com/dbwoaud/GameJam2026_portfolio)
 
 ---
 
