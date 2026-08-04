@@ -27,14 +27,15 @@
 
 ---
 
-### 🏆 주요 프로젝트(1인 개발)
+### 🏆 개인 프로젝트(1인 개발)
 
 **지하 10층 (Basement 10)**
 * **장르**: 1인칭 공포 퍼즐
 * **엔진**: Unity
 * **주요 요소**: 
-    * 1인 개발로 전체 게임 루프 및 엔딩 시퀀스 구현
-    * 이벤트 기반 아키텍처 도입으로 코드 유지보수성 확보
+    * `GameManager`를 순수 로직으로 분리해 EditMode 단위 테스트 28개 확보
+    * `ProfilerRecorder` 기반 정량 성능 계측으로 렌더링 병목 진단 및 드로우콜 최적화
+    * 4개 언어 로컬라이제이션 및 원자적 저장 기반 설정 시스템 구현
 * **링크**: [📽️ Demo Video](https://www.youtube.com/watch?v=dkS35WRMzng) | [📄 Detailed Portfolio (Notion)](https://pinnate-earthworm-118.notion.site/10-f31faf7d496e828dab0501cd8dd8dae3) | [💻 Source Code](https://github.com/dbwoaud/Basement10_portfolio)
 
 **풍림화산 전쟁 (Elemental War)**
