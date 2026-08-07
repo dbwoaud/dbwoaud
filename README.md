@@ -22,7 +22,7 @@
 * **UI 자동화**: 네이밍 컨벤션 기반 UI 자동 바인딩 시스템 구축(반복 DFS 탐색·딕셔너리 매핑)으로 인스펙터 수동 할당 제거
 * **아키텍처**: SOLID 원칙을 준수한 매니저 패턴 설계 활용
 * **이벤트 기반 시스템**: C# Action과 ScriptableObject를 결합하여 시스템 간 의존성을 낮춘 데이터 주도 설계
-* **최적화**: 자료구조 교체와 논할당 물리 질의를 A/B 계측으로 검증(프레임 타임 51.6%, GC 수집 94.7% 감소)
+* **최적화**: 탐색 주기 분리, 소유 유닛 한정 Tick과 논할당 물리 질의를 A/B 계측으로 검증 (유닛 800명 기준 프레임 타임 51.6% 단축, GC 수집 94.7% 감소)
 * **네트워크**: Photon PUN2의 RPC 동기화와 커스텀 PrefabPool을 활용한 1v1 실시간 멀티플레이 구현
 * **협업**: 도메인 단위 분업과 인터페이스 계약 설계를 통한 병렬 개발, 코드 리뷰 기반의 구조 개선 분석
 
@@ -35,7 +35,7 @@
 * **엔진**: Unity
 * **주요 요소**: 
     * `GameManager`를 순수 로직으로 분리해 EditMode 단위 테스트 28개 확보
-    * `ProfilerRecorder` 기반 정량 성능 계측으로 렌더링 병목 진단 및 드로우콜 최적화
+    * `ProfilerRecorder` 기반 정량 계측으로 렌더링 병목 정량 진단
     * 4개 언어 로컬라이제이션 및 원자적 저장 기반 설정 시스템 구현
 * **링크**: [📽️ Demo Video](https://www.youtube.com/watch?v=dkS35WRMzng) | [📄 Detailed Portfolio (Notion)](https://pinnate-earthworm-118.notion.site/10-f31faf7d496e828dab0501cd8dd8dae3) | [💻 Source Code](https://github.com/dbwoaud/Basement10_portfolio)
 
