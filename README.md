@@ -42,8 +42,9 @@
 * **장르**: 2D 사이드뷰 실시간 타워 디펜스 (1v1 멀티플레이)
 * **엔진**: Unity
 * **주요 요소**: 
-    * Photon PUN2 기반 실시간 네트워크 동기화 및 커스텀 오브젝트 풀링 구현
-    * 씬 전반에 MVC 아키텍처와 다수의 GoF 디자인 패턴 적용
+    * Photon PUN2의 RPC, CustomProperties, `IPunPrefabPool`을 조합해 전용 서버 없이 1v1 실시간 대전 구현
+    * 5개 씬 전체에 MVC 아키텍처 적용 및 Composite, State, Adapter, Strategy 패턴을 문제 상황별로 선택 적용
+    * `NetworkPerformanceLogger` 기반 A/B 계측으로 유닛 800명 환경 **프레임 타임 51.6% 단축**, **GC 수집 횟수 94.7% 감소**
 * **링크**: [📽️ Demo Video](https://www.youtube.com/watch?v=EoBB8FgUPCY) | [📄 Detailed Portfolio (Notion)](https://pinnate-earthworm-118.notion.site/35cfaf7d496e801c870ece488cbb2c5c) | [💻 Source Code](https://github.com/dbwoaud/ElementalWar_portfolio)
 
 ---
